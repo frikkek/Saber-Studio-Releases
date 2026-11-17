@@ -10,7 +10,7 @@ Baixe a versão mais recente em **[Releases](../../releases/latest)**:
 
 | Arquivo | Para quem |
 |---|---|
-| `SaberStudio-<versão>-Portatil.zip` | **Portátil.** Descompacte e abra `Legendador\Legendador.exe`. |
+| `SaberStudio-<versão>-Portatil.zip` | **Portátil.** Descompacte e abra `Saber Studio\Saber Studio.exe`. |
 | `SHA256SUMS.txt` | Somas para conferir se o arquivo chegou íntegro. |
 
 O app avisa sozinho quando há versão nova. Para atualizar, troque a pasta antiga pela nova.
